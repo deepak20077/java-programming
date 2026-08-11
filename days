@@ -1,0 +1,17 @@
+public  class days{
+public static void main(string[]args){
+byte days=3;
+switch(days)
+case 1:
+system.out.println("Monday");
+break;
+case 2:
+system.out.println("Tuesday");
+break;
+case 3:
+system.out.println("Wednesday");
+break;
+default:
+system.out.println("Macth not Found");
+}
+}
